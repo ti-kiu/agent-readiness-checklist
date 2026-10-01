@@ -1,0 +1,12 @@
+{
+  "name": "YOURDOMAIN",
+  "version": "1.0.0",
+  "description": "Your site description",
+  "supportedInterfaces": [
+    {"type": "mcp", "url": "https://YOURDOMAIN.com/.well-known/mcp/server-card.json"}
+  ],
+  "capabilities": ["your-capability-1", "your-capability-2"],
+  "skills": [
+    {"id": "skill-1", "name": "Skill Name", "description": "Skill description"}
+  ]
+}
