@@ -1,0 +1,17 @@
+# YOURDOMAIN
+
+> One-line description of your site
+
+## About
+Brief description of what your site does.
+
+## Features
+- Feature 1
+- Feature 2
+
+## API
+- Endpoint: https://YOURDOMAIN.com/api
+- Docs: https://YOURDOMAIN.com/docs
+
+## Support
+- Email: support@YOURDOMAIN.com
