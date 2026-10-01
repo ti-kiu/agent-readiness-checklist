@@ -1,0 +1,21 @@
+{
+  "name": "YOURDOMAIN API",
+  "version": "1.0.0",
+  "description": "Your site description",
+  "capabilities": {
+    "tools": {}
+  },
+  "tools": [
+    {
+      "name": "example_tool",
+      "description": "Example tool description",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "query": {"type": "string", "description": "Input parameter"}
+        },
+        "required": ["query"]
+      }
+    }
+  ]
+}
