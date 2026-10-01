@@ -1,0 +1,11 @@
+{
+  "linkset": [{
+    "anchor": "https://YOURDOMAIN.com/",
+    "service-desc": [
+      {"href": "https://YOURDOMAIN.com/openapi.json", "type": "application/json"}
+    ],
+    "service-doc": [
+      {"href": "https://YOURDOMAIN.com/llms.txt", "type": "text/plain"}
+    ]
+  }]
+}
