@@ -1,0 +1,10 @@
+{
+  "issuer": "https://YOURDOMAIN.com",
+  "authorization_endpoint": "https://YOURDOMAIN.com/oauth/authorize",
+  "token_endpoint": "https://YOURDOMAIN.com/oauth/token",
+  "jwks_uri": "https://YOURDOMAIN.com/.well-known/jwks.json",
+  "scopes_supported": ["read", "write"],
+  "response_types_supported": ["code"],
+  "grant_types_supported": ["authorization_code", "refresh_token"],
+  "code_challenge_methods_supported": ["S256"]
+}
