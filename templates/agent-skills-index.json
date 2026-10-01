@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {
+      "id": "your-skill",
+      "name": "Your Skill Name",
+      "description": "What this skill does",
+      "skill_url": "https://YOURDOMAIN.com/.well-known/agent-skills/your-skill/SKILL.md"
+    }
+  ]
+}
